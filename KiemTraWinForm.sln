@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemTraWinForm", "KiemTraWinForm\KiemTraWinForm.csproj", "{8FDC0432-F1ED-42B6-ADFF-1332A67AAC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDC0432-F1ED-42B6-ADFF-1332A67AAC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDC0432-F1ED-42B6-ADFF-1332A67AAC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDC0432-F1ED-42B6-ADFF-1332A67AAC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDC0432-F1ED-42B6-ADFF-1332A67AAC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C733440-7FC6-4AE1-B6B2-3F349636736D}
+	EndGlobalSection
+EndGlobal

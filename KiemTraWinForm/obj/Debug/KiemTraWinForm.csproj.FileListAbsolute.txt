@@ -1,0 +1,120 @@
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.exe.config
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.exe
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.pdb
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.AssemblyReference.cache
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.SuggestedBindingRedirects.cache
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Form1.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Properties.Resources.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.GenerateResource.cache
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.CoreCompileInputs.cache
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.exe
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.pdb
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TrangChu.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KiemTra.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.LichSu.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.OnTap.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.De1.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.De2.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.De3.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.De4.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.De5.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DangKy.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DangNhap.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QuyenMatKhau.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiSDT.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiMK.resources
+E:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiTenDN.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.exe.config
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.exe
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.pdb
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.AssemblyReference.cache
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DangNhap.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiMK.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Form1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KiemTra.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.LichSu.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Properties.Resources.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QuyenMatKhau.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TrangChu.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.GenerateResource.cache
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.CoreCompileInputs.cache
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.exe
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.pdb
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.ChonPTDN.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.CaiDat.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DangNhapQL.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TrangChuQL.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.LichSuQL.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TaoDe.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Toan.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Toan1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Toan2.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQToan1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQToan.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQToan2.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Anh.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQAnh.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Anh1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQAnh1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Anh2.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQAnh2.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.C.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.C1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.C2.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQC.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQC1.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQC2.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DSLop.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TaoLop.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.ThemHS.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiMKQL.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QLKyThi.resources
+D:\Workspace\HocLapTrinh\Visual C#\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QLTaiKhoan.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.exe.config
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.exe
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\bin\Debug\KiemTraWinForm.pdb
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.AssemblyReference.cache
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Anh.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Anh1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Anh2.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.C.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.C1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.C2.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.CaiDat.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.ChonPTDN.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DangNhap.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DangNhapQL.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiMK.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DoiMKQL.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.DSLop.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Form1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KiemTra.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQAnh.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQAnh1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQAnh2.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQC.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQC1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQC2.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQToan.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQToan1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.KQToan2.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.LichSu.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.LichSuQL.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Properties.Resources.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QLKyThi.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QLTaiKhoan.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.QuyenMatKhau.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TaoDe.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TaoLop.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.ThemHS.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Toan.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Toan1.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.Toan2.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TrangChu.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.TrangChuQL.resources
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.GenerateResource.cache
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.exe
+C:\Users\ManhH\Downloads\KiemTraWinForm\KiemTraWinForm\KiemTraWinForm\obj\Debug\KiemTraWinForm.pdb
